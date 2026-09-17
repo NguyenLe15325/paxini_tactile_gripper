@@ -17,3 +17,5 @@
 ### v1.0.5
 - 200mm guide rail
 - full sts3215
+### v1.0.6
+- same as v1.0.5 but use taller sts3215 finger (gripper_finger_sts3215_v2)
