@@ -20,3 +20,4 @@
 ### v1.0.6
 - same as v1.0.5 but use taller sts3215 finger (gripper_finger_sts3215_v2)
 - add wire slots for routing wires
+- re-adjust hole positions to mount 200mm slider according to actual dimensions
